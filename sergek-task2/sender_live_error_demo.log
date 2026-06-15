@@ -1,0 +1,5 @@
+2026-06-15 08:20:08,189 | INFO | Загружено строк: 1 из messages_one.csv | режим: live
+2026-06-15 08:20:08,189 | INFO | Строка 1: отправка LIVE-сообщения на +77001234567...
+2026-06-15 08:20:08,406 | ERROR | Ошибка API (403) при отправке на +77001234567: Host not in allowlist: graph.facebook.com. Add this host to your network egress settings to allow access.
+2026-06-15 08:20:08,407 | ERROR | Строка 1: НЕ отправлено на +77001234567 (причина: api_error_403)
+2026-06-15 08:20:11,408 | INFO | LIVE завершён. sent=0, errors=1, processed=1
