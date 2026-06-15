@@ -1,0 +1,4 @@
+﻿id,name,full_name,address,latitude,longitude,type,subtype,rubric,purpose_name,rating,review_count,is_24x7,2gis_link,description,attributes,flags,external_content
+70000001091411860,Автостоянка,"Алматы, Объект",Алматы,43.240483,76.946143,branch,,Автостоянки,Объект,,1.0,,https://2gis.kz/almaty/firm/70000001091411860,{},{},"{""photos"": true}",{}
+70000001111077825,Автостоянка,"Алматы, Объект",Алматы,43.236244,76.952737,branch,,Автостоянки,Объект,,,True,https://2gis.kz/almaty/firm/70000001111077825,{},{},{},{}
+70000001054953214,Подземная парковка ТРЦ Достык Плаза,"Алматы, Подземная парковка ТРЦ Достык Плаза","микрорайон Самал-2, 111",43.232612,76.956927,branch,,Паркинги,,4.2,25.0,True,https://2gis.kz/almaty/firm/70000001054953214,{},{},"{""photos"": true}",{}
